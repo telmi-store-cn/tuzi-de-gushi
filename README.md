@@ -14,4 +14,4 @@
 > Designer : Heuzef
 > License : © Heuzef
 
-![Cover de Mes Petits Louveteaux](https://raw.githubusercontent.com/telmi-store-cn/tuzi-de-gushi/main/cover.png)
+![Cover](https://raw.githubusercontent.com/telmi-store-cn/tuzi-de-gushi/main/cover.png)
